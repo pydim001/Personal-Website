@@ -1,0 +1,38 @@
+body{
+    background-color:#272f3b; 
+ }
+ .text{
+    color: whitesmoke;
+    font-family: sans-serif;
+    text-align: center;
+ }
+ #pages{
+    /**background-color:#f08616;**/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -8px;
+    margin-left: -10px;
+    margin-right: -10px;
+ }
+ #pages a{
+    padding: 10px;
+    text-decoration: none;
+    
+ }
+ .hover{
+    background-color:#f08616;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+ .hover:hover{
+    background-color: #87521a;
+ }
+ #copyright p{
+    color: antiquewhite;
+    font-size: 10px;
+ }
+ #links{
+    text-align: center;
+ }
